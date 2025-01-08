@@ -51,7 +51,10 @@ Knowledge of IP addressing and subnetting.
 If you have any questions, feedback, or suggestions, feel free to reach out:
 
 Author: [Kethavath Mamatha]
+
 Email: [mamatharathod89@gmail.com]
+
 GitHub: [Mamatha-Kethavath]
+
 LinkedIn: [Mamatha Kethavath]
 
